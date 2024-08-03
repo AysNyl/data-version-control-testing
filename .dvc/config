@@ -1,2 +1,4 @@
+[core]
+    remote = cloud
 ['remote "cloud"']
     url = ../../data_cloud
